@@ -1,0 +1,7 @@
+D:\215\19_3\practika19_3(3)\obj\Debug\practika19_3(3).csproj.AssemblyReference.cache
+D:\215\19_3\practika19_3(3)\obj\Debug\practika19_3(3).csproj.CoreCompileInputs.cache
+D:\215\19_3\practika19_3(3)\bin\Debug\practika19_3(3).exe.config
+D:\215\19_3\practika19_3(3)\bin\Debug\practika19_3(3).exe
+D:\215\19_3\practika19_3(3)\bin\Debug\practika19_3(3).pdb
+D:\215\19_3\practika19_3(3)\obj\Debug\practika19_3(3).exe
+D:\215\19_3\practika19_3(3)\obj\Debug\practika19_3(3).pdb
