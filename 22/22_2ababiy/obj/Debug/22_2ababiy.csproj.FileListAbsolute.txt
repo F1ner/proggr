@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\22\22_2ababiy\bin\Debug\22_2ababiy.exe.config
+C:\Users\Kab-35-6\Desktop\22\22_2ababiy\bin\Debug\22_2ababiy.exe
+C:\Users\Kab-35-6\Desktop\22\22_2ababiy\bin\Debug\22_2ababiy.pdb
+C:\Users\Kab-35-6\Desktop\22\22_2ababiy\obj\Debug\22_2ababiy.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\22\22_2ababiy\obj\Debug\22_2ababiy.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\22\22_2ababiy\obj\Debug\22_2ababiy.exe
+C:\Users\Kab-35-6\Desktop\22\22_2ababiy\obj\Debug\22_2ababiy.pdb
