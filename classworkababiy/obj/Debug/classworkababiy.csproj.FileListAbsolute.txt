@@ -1,0 +1,7 @@
+K:\215\classworkababiy\bin\Debug\classworkababiy.exe.config
+K:\215\classworkababiy\bin\Debug\classworkababiy.exe
+K:\215\classworkababiy\bin\Debug\classworkababiy.pdb
+K:\215\classworkababiy\obj\Debug\classworkababiy.csproj.AssemblyReference.cache
+K:\215\classworkababiy\obj\Debug\classworkababiy.csproj.CoreCompileInputs.cache
+K:\215\classworkababiy\obj\Debug\classworkababiy.exe
+K:\215\classworkababiy\obj\Debug\classworkababiy.pdb
